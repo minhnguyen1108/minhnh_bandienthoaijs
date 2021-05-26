@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "name": "IPHONE 11 XANH LÁ",
+      "price": "18000000",
+      "id": 1,
+      "img": "iphone/iphone-11-xanhla-600x600-1-600x600.jpg"
+    },
+    {
+      "name": "IPHONE 12 PROMAX X",
+      "price": "24500000",
+      "id": 2,
+      "img": "iphone/iphone-12-pro-xam-new-600x600-600x600.jpg"
+    },
+    {
+      "name": "IPHONE 12 PROMAX XD",
+      "price": "25000000",
+      "id": 3,
+      "img": "iphone/iphone-12-pro-xanh-duong-new-600x600-600x600.jpg"
+    },
+    {
+      "name": "IPHONE SE 2020",
+      "price": "8450000",
+      "id": 4,
+      "img": "iphone/iphone-se-2020-red-600x600-3-600x600.jpg"
+    },
+    {
+      "name": "IPHONE XR 128 GB",
+      "price": "10550000",
+      "id": 5,
+      "img": "iphone/iphone-xr-128gb-400x400.jpg"
+    },
+    {
+      "name": "IPHONE XR ĐEN",
+      "price": "12500000",
+      "id": 6,
+      "img": "iphone/iphone-xr-hopmoi-den-600x600-2-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY NOTE 20",
+      "price": "23000000",
+      "id": 7,
+      "img": "3.samsung/sam-sung-note-20-ultra-vang-dong-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY A2",
+      "price": "14500000",
+      "id": 8,
+      "img": "3.samsung/samsung-galaxy-a02-xanhduong-600x600-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY NOTE 10",
+      "price": "17500000",
+      "id": 9,
+      "img": "3.samsung/samsung-galaxy-note-10-plus-silver-new-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY A21S",
+      "price": "22000000",
+      "id": 10,
+      "img": "3.samsung/samsung-galaxy-a21s-xanh-600x600-1-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY M51",
+      "price": "10500000",
+      "id": 11,
+      "img": "3.samsung/samsung-galaxy-m51-trang-new-600x600-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY A2S",
+      "price": "13500000",
+      "id": 12,
+      "img": "3.samsung/samsung-galaxy-a02s-den-600x600-600x600.jpg"
+    },
+    {
+      "name": "SAMSUNG GALAXY A2S",
+      "price": "13500000",
+      "id": 12,
+      "img": "3.samsung/samsung-galaxy-a02s-den-600x600-600x600.jpg"
+    }
+  ],
+  "nsx": [
+    {
+      "id": 1,
+      "name": "IPHONE"
+    },
+    {
+      "id": 2,
+      "name": "SAMSUNG"
+    },
+    {
+      "id": 3,
+      "name": "HUAWEI"
+    },
+    {
+      "id": 4,
+      "name": "OPPO"
+    },
+    {
+      "id": 5,
+      "name": "XIAOMI"
+    },
+    {
+      "id": 6,
+      "name": "VSMART"
+    }
+  ],
+  "orders": [
+    {
+      "ten": "adasd",
+      "sdt": "0355272605",
+      "diachi": "123213",
+      "id": 1
+    },
+    {
+      "ten": "adasd",
+      "sdt": "0355272605",
+      "diachi": "123213",
+      "id": 2
+    },
+    {
+      "ten": "adasd",
+      "sdt": "0355272605",
+      "diachi": "123213",
+      "id": 3
+    },
+    {
+      "ten": "Nguyễn Huỳnh Minh",
+      "sdt": "0377735506",
+      "diachi": "Quận 2, Hồ Chí Minh",
+      "id": 7
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": 7,
+      "product_id": 2,
+      "quantity": 2,
+      "unit_price": "123",
+      "id": 1
+    },
+    {
+      "order_id": 3,
+      "product_id": 6,
+      "quantity": 4,
+      "unit_price": "666",
+      "id": 2
+    },
+    {
+      "order_id": 4,
+      "product_id": 4,
+      "quantity": 3,
+      "unit_price": "111",
+      "id": 3
+    },
+    {
+      "order_id": 4,
+      "product_id": 2,
+      "quantity": 10,
+      "unit_price": "123",
+      "id": 4
+    },
+    {
+      "order_id": 5,
+      "product_id": 4,
+      "quantity": 3,
+      "unit_price": "111",
+      "id": 5
+    },
+    {
+      "order_id": 5,
+      "product_id": 2,
+      "quantity": 10,
+      "unit_price": "123",
+      "id": 6
+    },
+    {
+      "order_id": 5,
+      "product_id": 7,
+      "quantity": 3,
+      "unit_price": "777",
+      "id": 7
+    }
+  ]
+}
